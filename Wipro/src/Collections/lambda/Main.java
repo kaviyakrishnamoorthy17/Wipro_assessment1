@@ -1,4 +1,4 @@
-package collections.lambda;
+package Collections.lambda;
 
 import java.util.ArrayList;
 import java.util.Random;

@@ -1,8 +1,8 @@
-package collections.set;
+package Collections.set;
 
 import java.util.HashSet;
 
-class Country {
+class MyCountry {
     // Instance variable
     private HashSet<String> H1 = new HashSet<>();
 
@@ -25,7 +25,7 @@ class Country {
 
 public class Main2 {
     public static void main(String[] args) {
-        Country country = new Country();
+        MyCountry country = new MyCountry();
 
         // Adding countries
         country.saveCountryNames("India");

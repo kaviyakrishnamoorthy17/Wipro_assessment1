@@ -1,4 +1,4 @@
-package collections.lambda;
+package Collections.lambda;
 
 //Functional interface
 @FunctionalInterface
